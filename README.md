@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Oyeleye Shina 
 
-<!--
-**shinaoyeleye/shinaoyeleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a data analyst passionate about using data to solve real-world problems. 
+I am a participant in the 3MTT Programme and have experience in data analysis, visualization, and business insights.
+I have also completed professional training in:
 
-Here are some ideas to get you started:
+Data Analytics (Spreadsheets, Power BI, SQL) – Coursera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Statistics for Marketing – Coursera
+
+## Skills
+- Python Baseic 
+- Data Analysis
+- Power BI
+- Excel
+- SQL
+
+## Projects
+### Sterling E-Commerce Customer Behavior Analysis
+Analyzed customer purchasing behavior to identify trends and improve business decisions.
+GitHub Repo:
+https://github.com/shinaoyeleye/Sterling-E-Commerce-Customer-Behavior-Analysis
+### Vehicle Population Analysis Dashboard
+Understanding vehicle population distribution across regions provides valuable insight into infrastructure demand, mobility trends, and commercial activity
+GitHub Repo:
+https://github.com/shinaoyeleye/Vehicle-population-analysis-power-BI/blob/main/README.md
+## Contact Me
+Email: oyeleyejoseph219@gmail.com
+LinkedIn: https://www.linkedin.com/in/shina-oyeleye-821a281a5/ 
