@@ -1,7 +1,7 @@
 # Hi, I'm Oyeleye Shina 
 
 ## About Me
-I am a data analyst passionate about using data to solve real-world problems. I am a participant in the 3MTT Programme and have experience in data analysis, visualization, and business insights. I also conduct research in data analysis and financial analysis to deepen my understanding and contribute to evidence-based decision-making.
+I am a data analyst passionate about using data to solve real-world problems. I am a participant in the 3MTT/DeepTech_Ready Programme and have experience in data analysis, visualization, and business insights. I also conduct research in data analysis and financial analysis to deepen my understanding and contribute to evidence-based decision-making.
 
 I have completed professional training in:
 
