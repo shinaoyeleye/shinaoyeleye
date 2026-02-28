@@ -29,6 +29,10 @@ https://github.com/shinaoyeleye/Vehicle-population-analysis-power-BI
 analyzes service sales data for Success Express into an interactive dashboard that supports data-driven decision-making and provides insights into revenue trends, top-performing services, and regional performance.
 GitHub Repo:
 https://github.com/shinaoyeleye/Success-Express-Service-Sales-Data
+### Addressing Air Pollution Exposure in Nigerian Secondary Schools: A Case for Early Health Intervention through Data
+GitHub Repo:
+https://github.com/shinaoyeleye/Addressing-Air-Pollution-Exposure-in-Nigerian-Secondary-Schools-Health-Intervention-through-Data
 ## Contact Me
 Email: oyeleyejoseph219@gmail.com
 LinkedIn: https://www.linkedin.com/in/shina-oyeleye-821a281a5/ 
+https://github.com/shinaoyeleye/Addressing-Air-Pollution-Exposure-in-Nigerian-Secondary-Schools-Health-Intervention-through-Data
